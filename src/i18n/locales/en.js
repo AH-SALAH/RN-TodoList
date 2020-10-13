@@ -1,0 +1,32 @@
+export default {
+    "translation": {
+        "Task": "Task",
+        "Settings": "Settings",
+        "Done List": "Done List",
+        "Add New Task": "Add New Task",
+        "No Tasks": "No Tasks",
+        "Add": "Add",
+        "Close": "Close",
+        "Theme": "Theme",
+        "Light": "Light",
+        "Dark": "Dark",
+        "Language": "Language",
+        "en": "English",
+        "ar": "العربية",
+        "add_value_alert": "Please, Add Some Values",
+        "Search": "Search",
+        "email": "Email",
+        "userName": "User Name",
+        "password": "Password",
+        "login": "Login",
+        "signin": "Sign In",
+        "signup": "Sign Up",
+        "register": "Register",
+        "registration": "Registration",
+        "required": "Required",
+
+        "message.numAndAlpha" : "Must Contains numbers & Alpha",
+        "message.notAvalidEmail" : "Not A valid Email",
+        "message.minChars" : "At Least {{value}} Characters",
+    }
+}

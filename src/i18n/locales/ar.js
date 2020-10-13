@@ -1,0 +1,32 @@
+export default {
+    "translation": {
+        "Task": "المهام",
+        "Settings": "الإعدادات",
+        "Done List": "المهام المنتهية",
+        "Add New Task": "أضف مهام جديدة",
+        "No Tasks": "لا يوجد مهام",
+        "Add": "أضف",
+        "Close": "أغلق",
+        "Theme": "القالب",
+        "Light": "فاتح",
+        "Dark": "داكن",
+        "Language": "اللغة",
+        "en": "الإنجليزية",
+        "ar": "العربية",
+        "add_value_alert": "من فضلك أضف بعض القيم",
+        "Search": "بحث",
+        "email": "البريد إلكترونى",
+        "userName": "إسم المستخدم",
+        "password": "كلمة المرور",
+        "login": "تسجيل الدخول",
+        "signin": "تسجيل الدخول",
+        "signup": "سجّل",
+        "register": "سجّل",
+        "registration": "التسجيل",
+        "required": "مطلوب",
+
+        "message.numAndAlpha" : "يجب ان تتكون من حروف و أرقام",
+        "message.notAvalidEmail" : "إيميل غير صحيح",
+        "message.minChars" : "على الأقل {value} حروف",
+    }
+}
