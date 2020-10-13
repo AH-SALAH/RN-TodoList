@@ -14,5 +14,5 @@
 
 ***
 
-`npm i` 
-`npm run android` or `npm run ios`
+- `npm i` 
+- `npm run android` or `npm run ios`
